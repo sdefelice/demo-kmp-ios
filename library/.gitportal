@@ -1,0 +1,7 @@
+[gitportal]
+	dir = bdir
+	bidircode = ios
+	bidirbranch = main
+	commit = 39c8f0d676bb7b4aa7d86761626bd7a482cd17ee
+	parent = f3430ad72a19bdeb3e14650ecdd681d2dd0853a8
+	remote = git@github.com:sdefelice/demo-kmp-source.git
