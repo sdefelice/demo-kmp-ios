@@ -8,8 +8,6 @@ import allshared
 
 struct BreedListScreen: View {
     
-    // I'll make some changes here... eventually 
-    
     @ObservedObject
     var viewModel: BreedViewModel
     
