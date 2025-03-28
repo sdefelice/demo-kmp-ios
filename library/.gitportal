@@ -2,7 +2,6 @@
 	dir = bdir
 	bidircode = ios
 	bidirbranch = main
-	commit = 774619f343c40f703d78443b80f90bcdd1ab2faa
-	parent = e85c53f8f9fb3599c83ca03b83bf0cd3b6ad96d6
+	commit = bc90183fac4220c2cd03a1e28eeb1364a3d19dd1
+	parent = 6bf544d8e3f1830ac73674b9bfefda090767b380
 	remote = git@github.com:sdefelice/demo-kmp-source.git
-	pullmergecommit = 72265af349ef693e2ffd4deccc8f5eaeb5556ff4
