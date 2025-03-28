@@ -5,3 +5,4 @@
 	commit = 1904c807eb554fb33511f62d3ef2bf79d57ef61e
 	parent = 937f070808e0399827958dbd02f80f2c0e4ac53b
 	remote = git@github.com:sdefelice/demo-kmp-source.git
+	pullmergecommit = 9f8f6dce449d40aada8ead23636aa765a2c8c189
