@@ -2,6 +2,6 @@
 	dir = bdir
 	bidircode = ios
 	bidirbranch = main
-	commit = bc90183fac4220c2cd03a1e28eeb1364a3d19dd1
-	parent = 6bf544d8e3f1830ac73674b9bfefda090767b380
+	commit = 4f1bb495353b1f3e5eb8f6e7d05c0f11a46b73e9
+	parent = 9c4fa9e972598a54531cbce3e97c2ad6a460be21
 	remote = git@github.com:sdefelice/demo-kmp-source.git
